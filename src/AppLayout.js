@@ -76,17 +76,6 @@ const AppLayout = () => {
         </Box>
       </Box>
       <Box>
-        <Typography
-          variant="h4"
-          fontWeight="bold"
-          textAlign="center"
-          letterSpacing={2}
-          mt={4}
-          mb={2}
-          id="articles"
-        >
-          Articles
-        </Typography>
         <ThoughtLeadership />
       </Box>
       <Box sx={{ mb: 4 }}>

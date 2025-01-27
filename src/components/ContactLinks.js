@@ -34,7 +34,7 @@ const ContactLinks = () => {
       </IconButton>
       <IconButton
         component="a"
-        href="https://x.com/"
+        href="https://x.com/ravilaudya"
         target="_blank"
         rel="noopener noreferrer"
       >
