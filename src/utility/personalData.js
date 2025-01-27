@@ -97,35 +97,33 @@ export const authorshipData = [
     title: "The Rise Of AI Copilots In Enterprise Software",
     link: "https://www.forbes.com/councils/forbestechcouncil/2024/11/27/the-rise-of-ai-copilots-in-enterprise-software/",
     description:
-      "In the not-so-distant past, marketing teams spent countless hours crafting pitch decks, carefully designing each slide to impress potential clients. This process was often tedious and time-consuming. Meanwhile, programmers faced significant challenges when seeking help, often turning to Google or community-driven platforms such as StackOverflow to find solutions. They would spend hours sifting through forum threads and documentation, hoping to discover insights from others who had tackled similar coding problems. Similarly, enterprise software customers frequently found themselves navigating complex user interfaces, struggling to locate the features they needed amidst a maze of menus and options.",
+      "In the not-so-distant past, marketing teams spent countless hours crafting pitch decks, carefully designing each slide to impress potential clients. This process was often tedious and time-consuming. Meanwhile, programmers faced significant challenges ...",
   },
   {
     image: `https://media.licdn.com/dms/image/sync/v2/D4D27AQHNBWgFGdwPcg/articleshare-shrink_800/articleshare-shrink_800/0/1731282932160?e=2147483647&v=beta&t=pcz5FJgggz6onKg5ZKPuFfQ5mMy7NchK5RXAF-SAbrw&width=1440`,
     title: "Building Scalable Event-Driven Orchestration Platform in AWS",
     link: "https://hackernoon.com/building-scalable-event-driven-orchestration-platform-in-aws",
-    description: `These days, we’re surrounded by apps everywhere—on our phones, in our smart homes, and throughout businesses big and small. It’s almost unbelievable how much data they churn out every single day. We're talking billions or trillions of events, from a simple tap on a phone screen to complex business transactions. It is essential for applications to handle these events in real-time to act on them as they occur and derive useful insights for the growth of the business.`,
+    description: `These days, we’re surrounded by apps everywhere—on our phones, in our smart homes, and throughout businesses big and small. It’s almost unbelievable how much data they churn out every single day. We're talking billions or trillions of events, ...`,
   },
   {
     image: `https://hackernoon.imgix.net/images/2jqChkrv03exBUgkLrDzIbfM99q2-x302rnp.jpeg?w=1080&q=75&auto=format`,
     title:
       "Cost Optimization Techniques for AWS DynamoDB in Orchestration Applications",
     link: "https://hackernoon.com/cost-optimization-techniques-for-aws-dynamodb-in-orchestration-applications",
-    description: `AWS DynamoDB is a fully managed, serverless document store that offers single-digit millisecond performance at any scale. It supports various data models and supports transactions, global tables for multi-region replication.
-
-`,
+    description: `AWS DynamoDB is a fully managed, serverless document store that offers single-digit millisecond performance at any scale. It supports various data models and supports transactions, global tables for multi-region replication...`,
   },
   {
     image: `https://media.licdn.com/dms/image/v2/D5612AQGfbna0SwBnlA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1732056856547?e=2147483647&v=beta&t=waiod9Hde83Ds-1obYp3B3fcpgny24e0TxwEbtf8rrU`,
     title: "AI Copilot Using AWS Multi-Agent Orchestrator",
     link: "https://dzone.com/articles/ai-copilot-using-multi-agent-orchestrator",
     description:
-      "Personal AI copilots are emerging as real game changers. They have the potential to transform how we manage our daily tasks and responsibilities. Unlike basic chatbots, these intelligent assistants are sophisticated systems that understand the nuances of our personal lives, making our day-to-day activities much smoother and more efficient.",
+      "Personal AI copilots are emerging as real game changers. They have the potential to transform how we manage our daily tasks and responsibilities. Unlike basic chatbots, these intelligent assistants are sophisticated systems that understand the nuances of ...",
   },
   {
     image: `https://hackernoon.imgix.net/images/D7ome4J36kgEIftR2Jrx5dwfohC2-cd034jb.webp?w=1200&q=75&auto=format`,
     title: "How to Master Real-Time Analytics With AWS: Timestream and Beyond",
     link: "https://hackernoon.com/how-to-master-real-time-analytics-with-aws-timestream-and-beyond",
-    description: `we discussed the exponential growth of events in today’s data-driven world. With so many apps, smart devices, and machines all around us, the amount of data created is massive. We also explored how an orchestration platform can help deliver these events to the right applications. However, delivering events may not be enough for businesses to make an impact.`,
+    description: `we discussed the exponential growth of events in today’s data-driven world. With so many apps, smart devices, and machines all around us, the amount of data created is massive. We also explored how an orchestration platform can help deliver these ...`,
   },
 ];
 

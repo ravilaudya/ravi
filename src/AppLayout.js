@@ -71,7 +71,7 @@ const AppLayout = () => {
             Ravi Laudya
           </Typography>
           <Typography variant="h5" color="text.secondary">
-            Development Expert.
+            Development Expert
           </Typography>
         </Box>
       </Box>

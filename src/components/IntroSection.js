@@ -73,7 +73,7 @@ const IntroSection = () => {
             letterSpacing: "1.2px", // Add letter spacing
           }}
         >
-          a Development Expert.
+          a Development Expert
         </Typography>
         <Typography
           variant="body1"
