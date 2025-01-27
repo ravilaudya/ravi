@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ravi/static/css/main.8a2724f5.css",
-    "main.js": "/ravi/static/js/main.f8b45edc.js",
+    "main.js": "/ravi/static/js/main.179f5bf1.js",
     "static/media/Ravi.png": "/ravi/static/media/Ravi.228ac279c0fd72baec8a.png",
     "index.html": "/ravi/index.html",
     "main.8a2724f5.css.map": "/ravi/static/css/main.8a2724f5.css.map",
-    "main.f8b45edc.js.map": "/ravi/static/js/main.f8b45edc.js.map"
+    "main.179f5bf1.js.map": "/ravi/static/js/main.179f5bf1.js.map"
   },
   "entrypoints": [
     "static/css/main.8a2724f5.css",
-    "static/js/main.f8b45edc.js"
+    "static/js/main.179f5bf1.js"
   ]
 }
